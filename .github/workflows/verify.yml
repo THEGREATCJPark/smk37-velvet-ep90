@@ -1,0 +1,22 @@
+name: Host DSP verification
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  host:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
+      - run: python tools/velvet.py prepare
+      - run: python tools/verify.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: host-measurements-not-hardware-validation
+          path: docs/measurements/

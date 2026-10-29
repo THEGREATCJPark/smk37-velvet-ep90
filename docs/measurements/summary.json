@@ -1,0 +1,8 @@
+{
+  "render_count": 704,
+  "worst_voice_peak": 0.4879166781902313,
+  "worst_abs_dc": 3.154010482830927e-05,
+  "failures": [],
+  "hardware_tested": false,
+  "reference_audio_compared": false
+}

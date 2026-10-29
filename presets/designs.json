@@ -1,0 +1,162 @@
+[
+  {
+    "id": "velvet90",
+    "name": "VELVET 90",
+    "syx_name": "VELVET90",
+    "body_decay": 34,
+    "body_level": 89,
+    "body_mod": 62,
+    "tine_level": 90,
+    "tine_ratio": 12,
+    "tine_decay": 36,
+    "tine_carrier": 77,
+    "release": 58,
+    "detune": 1,
+    "fx": [
+      38,
+      0,
+      27
+    ],
+    "spread": 24
+  },
+  {
+    "id": "glass-ballad",
+    "name": "GLASS BALLAD",
+    "syx_name": "GLASS90",
+    "body_decay": 32,
+    "body_level": 87,
+    "body_mod": 60,
+    "tine_level": 96,
+    "tine_ratio": 14,
+    "tine_decay": 30,
+    "tine_carrier": 82,
+    "release": 55,
+    "detune": 1,
+    "fx": [
+      45,
+      8,
+      37
+    ],
+    "spread": 32
+  },
+  {
+    "id": "midnight-soft",
+    "name": "MIDNIGHT SOFT",
+    "syx_name": "MIDNIGHT",
+    "body_decay": 30,
+    "body_level": 90,
+    "body_mod": 58,
+    "tine_level": 84,
+    "tine_ratio": 12,
+    "tine_decay": 40,
+    "tine_carrier": 71,
+    "release": 56,
+    "detune": 1,
+    "fx": [
+      23,
+      0,
+      23
+    ],
+    "spread": 12
+  },
+  {
+    "id": "silk-chorus",
+    "name": "SILK CHORUS",
+    "syx_name": "SILK90",
+    "body_decay": 33,
+    "body_level": 87,
+    "body_mod": 62,
+    "tine_level": 90,
+    "tine_ratio": 12,
+    "tine_decay": 30,
+    "tine_carrier": 76,
+    "release": 57,
+    "detune": 2,
+    "fx": [
+      62,
+      0,
+      31
+    ],
+    "spread": 64
+  },
+  {
+    "id": "studio-dry",
+    "name": "STUDIO DRY",
+    "syx_name": "DRY90",
+    "body_decay": 36,
+    "body_level": 89,
+    "body_mod": 62,
+    "tine_level": 90,
+    "tine_ratio": 12,
+    "tine_decay": 36,
+    "tine_carrier": 77,
+    "release": 61,
+    "detune": 0,
+    "fx": [
+      0,
+      0,
+      0
+    ],
+    "spread": 0
+  },
+  {
+    "id": "warm-tines",
+    "name": "WARM TINES",
+    "syx_name": "WARM90",
+    "body_decay": 35,
+    "body_level": 91,
+    "body_mod": 68,
+    "tine_level": 82,
+    "tine_ratio": 10,
+    "tine_decay": 38,
+    "tine_carrier": 73,
+    "release": 60,
+    "detune": 1,
+    "fx": [
+      28,
+      0,
+      19
+    ],
+    "spread": 16
+  },
+  {
+    "id": "bell-touch",
+    "name": "BELL TOUCH",
+    "syx_name": "BELL90",
+    "body_decay": 36,
+    "body_level": 85,
+    "body_mod": 58,
+    "tine_level": 96,
+    "tine_ratio": 14,
+    "tine_decay": 24,
+    "tine_carrier": 83,
+    "release": 59,
+    "detune": 1,
+    "fx": [
+      33,
+      7,
+      32
+    ],
+    "spread": 28
+  },
+  {
+    "id": "slow-jam",
+    "name": "SLOW JAM",
+    "syx_name": "SLOWJAM90",
+    "body_decay": 29,
+    "body_level": 88,
+    "body_mod": 62,
+    "tine_level": 88,
+    "tine_ratio": 12,
+    "tine_decay": 28,
+    "tine_carrier": 75,
+    "release": 52,
+    "detune": 2,
+    "fx": [
+      42,
+      0,
+      39
+    ],
+    "spread": 36
+  }
+]

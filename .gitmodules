@@ -1,0 +1,3 @@
+[submodule "vendor/skiff"]
+    path = vendor/skiff
+    url = https://github.com/illuminus5/skiff.git

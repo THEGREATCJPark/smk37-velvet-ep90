@@ -1,0 +1,82 @@
+[
+  {
+    "file": "velvet90-v64.wav",
+    "peak": 0.456268310546875,
+    "mono_loss_db": -0.040119663240858736
+  },
+  {
+    "file": "velvet90-v112.wav",
+    "peak": 0.577392578125,
+    "mono_loss_db": -0.03998629027000855
+  },
+  {
+    "file": "glass-ballad-v64.wav",
+    "peak": 0.38494873046875,
+    "mono_loss_db": -0.07106300964507417
+  },
+  {
+    "file": "glass-ballad-v112.wav",
+    "peak": 0.562469482421875,
+    "mono_loss_db": -0.0713087982050732
+  },
+  {
+    "file": "midnight-soft-v64.wav",
+    "peak": 0.487335205078125,
+    "mono_loss_db": -0.009953218275105369
+  },
+  {
+    "file": "midnight-soft-v112.wav",
+    "peak": 0.565338134765625,
+    "mono_loss_db": -0.009940861417306799
+  },
+  {
+    "file": "silk-chorus-v64.wav",
+    "peak": 0.36651611328125,
+    "mono_loss_db": -0.30547968719954743
+  },
+  {
+    "file": "silk-chorus-v112.wav",
+    "peak": 0.52154541015625,
+    "mono_loss_db": -0.3067821734576279
+  },
+  {
+    "file": "studio-dry-v64.wav",
+    "peak": 0.4871826171875,
+    "mono_loss_db": 0.0
+  },
+  {
+    "file": "studio-dry-v112.wav",
+    "peak": 0.589111328125,
+    "mono_loss_db": 0.0
+  },
+  {
+    "file": "warm-tines-v64.wav",
+    "peak": 0.5125732421875,
+    "mono_loss_db": -0.01795580822415624
+  },
+  {
+    "file": "warm-tines-v112.wav",
+    "peak": 0.566864013671875,
+    "mono_loss_db": -0.017599110111274772
+  },
+  {
+    "file": "bell-touch-v64.wav",
+    "peak": 0.353424072265625,
+    "mono_loss_db": -0.05692418230064014
+  },
+  {
+    "file": "bell-touch-v112.wav",
+    "peak": 0.56158447265625,
+    "mono_loss_db": -0.057602546878975446
+  },
+  {
+    "file": "slow-jam-v64.wav",
+    "peak": 0.4049072265625,
+    "mono_loss_db": -0.09575333751163267
+  },
+  {
+    "file": "slow-jam-v112.wav",
+    "peak": 0.53485107421875,
+    "mono_loss_db": -0.09384025557833267
+  }
+]

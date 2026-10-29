@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0-alpha.1",
+  "upstream_commit": "8eb0e273b62d964dc7f53ca78257c19fdc38bd9e",
+  "model": "SMK-37 Pro",
+  "firmware_sha256": "01dfec1d3b56539dd2e3560b311a6d4751a8f2504320522f918e66d7078d2f24",
+  "hardware_tested": false,
+  "reference_audio_compared": false
+}
